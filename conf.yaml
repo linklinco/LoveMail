@@ -1,0 +1,13 @@
+send:
+  name: 林可
+  address: muyudpc@sina.com
+  password:
+  smtp_server: smtp.sina.com
+  pop_sever: pop.sina.com
+recevice:
+  - mail:
+      name: dear
+      address: 1483908178@qq.com
+  - mail:
+      name: dear
+      address: 1483908178@qq.com
